@@ -10,4 +10,4 @@ Attrition of employees is a severe challenge across all organizations. There are
 
 In this hackathon, the participants will be given the dataset comprising different features of the employees along with the information whether the employee has attrited to not. Using other useful features of the employees, the task is to build a machine learning model to make prediction about an employee's attrition.
 
-The submission will be evaluated using the Accuracy Score. One can use '''sklearn.metrics.accuracy_score''' to calculate the same.
+The submission will be evaluated using the Accuracy Score. One can use ```sklearn.metrics.accuracy_score``` to calculate the same.
